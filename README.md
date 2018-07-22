@@ -2,7 +2,7 @@
 
 ![Example 1](https://github.com/AbdelrahmanRadwan/Classical-GameBox/blob/master/results/1.png  "Example 1")
 
-A GameBox made in SFML using C++, It consists of two games:
+### A GameBox made in SFML using C++, It consists of two games:
 
 1. the very famous pack-man game: A game in which you are playing with that yellow creature trying to eat that points, and that monsters are trying to eat you.
 
